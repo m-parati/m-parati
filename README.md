@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Evan
+- 👀 I’m interested in computer science!
+- ⚡ Fun fact: I play the flute and sometimes the piano.
